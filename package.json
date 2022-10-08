@@ -1,0 +1,32 @@
+{
+  "name": "portfolio-strapi",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Portfolio Strapi",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@_sh/strapi-plugin-ckeditor": "^1.1.2",
+    "@strapi/plugin-i18n": "4.4.3",
+    "@strapi/plugin-users-permissions": "4.4.3",
+    "@strapi/provider-upload-cloudinary": "^4.4.3",
+    "@strapi/strapi": "4.4.3",
+    "pg": "8.6.0"
+  },
+  "author": {
+    "name": "Leda"
+  },
+  "strapi": {
+    "uuid": "e213097e-a7fe-4e9a-87a3-633d207642cf"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
