@@ -1,3 +1,5 @@
+# THIS IS NO LONGER USED, [Current Portfolio](https://github.com/LedaThemis/portfolio)
+
 # Portfolio Strapi
 
 This repository has the Strapi instance used for my portfolio.
